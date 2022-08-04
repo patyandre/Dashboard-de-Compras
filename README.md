@@ -1,3 +1,11 @@
+## Dashboard de Compras ##
+
+![image](https://user-images.githubusercontent.com/102249253/182931020-18c301b6-922f-473f-bad8-4869abe71920.png)
+
+
+
+
+
 ## Introdução do Problema ##
 
 Empresa Fictícia: cooperativa Agromilho (plantação de milho).
