@@ -15,4 +15,4 @@ Objetivos:
 Análise desenvolvida para entendimento do negócio voltado para fornecedores resultando em supplier performance, avaliação e monitoração de compras.
 
 Para maiores informações acesse : 
-https://app.powerbi.com/viewr=eyJrIjoiYjkzMmFkMDMtYmY1ZC00MmY0LWJmN2ItYmM5YzJjNjYwZmEzIiwidCI6IjMwZTgxZWM5LWYwMDYtNDdjYy1hNGVhLThmNWUzMWNjZTAwNCJ9
+<iframe title="Compras - Capa" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjkzMmFkMDMtYmY1ZC00MmY0LWJmN2ItYmM5YzJjNjYwZmEzIiwidCI6IjMwZTgxZWM5LWYwMDYtNDdjYy1hNGVhLThmNWUzMWNjZTAwNCJ9" frameborder="0" allowFullScreen="true"></iframe>
