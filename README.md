@@ -13,3 +13,5 @@ Objetivos:
 • Compras por categorias e SKUs.
 
 Análise desenvolvida para entendimento do negócio voltado para fornecedores resultando em supplier performance, avaliação e monitoração de compras.
+
+Para maiores informações acesse : https://app.powerbi.com/groups/me/reports/59fb3f3b-dc5b-4ecf-867b-67569e275537?pbi_source=desktop
